@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Semantic HTML Example</title>
+</head>
+
+<body style="margin: 0; font-family: Arial;">
+
+    <!-- Header -->
+    <header style="background-color: lightblue; padding: 20px; text-align: center;">
+        <h1>KL University vaddeswaram</h1>
+        <p>Welcome to Our University</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav style="background-color: navy; padding: 15px; text-align: center;">
+        <a href="#home" style="color: white;">Home</a> |
+        <a href="#about" style="color: white;">About Us</a> |
+        <a href="#courses" style="color: white;">Courses</a> |
+        <a href="#news" style="color: white;">News</a> |
+        <a href="#contact" style="color: white;">Contact</a>
+    </nav>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    <!-- Main Content -->
+    <main style="padding: 20px;">
+
+        <!-- About Section -->
+        <section id="about">
+            <h2>About Our College</h2>
+            <p>ABC Engineering College provides quality technical education.</p>
+        </section>
+
+        <!-- Courses Section -->
+        <section id="courses">
+            <h2>Our Courses</h2>
+            <ul>
+                <li>Computer Science Engineering</li>
+                <li>Electronics and Communication</li>
+                <li>Electrical Engineering</li>
+                <li>Mechanical Engineering</li>
+            </ul>
+        </section>
+
+        <!-- News Section -->
+        <section id="news">
+            <h2>Latest News</h2>
+
+            <article>
+                <h3>Admissions Open</h3>
+                <p>Admissions are open for the academic year 2026.</p>
+            </article>
+
+            <article>
+                <h3>Annual Sports Meet</h3>
+                <p>Our college is organizing an annual sports meet.</p>
+            </article>
+
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer id="contact" style="background-color: lightgray; padding: 15px; text-align: center;">
+        <p>Contact: info@abc.edu</p>
+        <p>© 2026 ABC Engineering College. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
